@@ -1,0 +1,14 @@
+section {
+    background-image: url(../images/section-img.avif);
+    background-size: contain;
+    background-repeat: repeat-x;
+    color: white;
+    text-align: center;
+}
+
+article {
+    background-image: url(../images/article-img.avif);
+    background-position: right 20px bottom 20px;
+    background-repeat: no-repeat;
+    background-size: contain
+}
